@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy_Head
+  - Enemy_Body
+  - Pipe
+  - Coin
   layers:
   - Default
   - TransparentFX
